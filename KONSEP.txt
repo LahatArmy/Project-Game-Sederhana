@@ -2,21 +2,7 @@ Nama: Mayvan Gandhy
 Kelas: 1-D 4 Teknologi Game
 
 Tugas Membuat Game Sederhana Menggunakan C++
-Nama Game: PONG
-Keadaan Menang: Jika Salah Satu Pemain Mengumpulkan Poin Sampai 11 Terlebih Dahulu
-Keadaan kalah apabila musuh terlebih dahulu mendapatkan poin sampe 11
-Cara Bermain Seperti Game Ping Pong Sebelumnya kita mengarahkan ping pong masuk kedalam gawang musuh
-Game ini dimainkan oleh 2 orang, pemain pertama untuk geraknya akan menggunakan "w" untuk ke atas dan "s" untuk kebawah sedangkan pemain kedua menggunakan "p" untuk ke atas dan "l" untuk kebawah.
-Untuk Skor akan berada di atas
-PAPAN SKOR  PERMAINAN
-10                    									9 
-__________________________ ________________________________________
-|                                                              O                                                                                  |
-|                                                                                                                                          []      |
-|    []                                                                                                                                            |
-|                                                                                                                                                   |
-|                                                                                                                                                   |
-|                                                                                                                                                   | 
- __________________________________________________________________
+Nama Game: Tebak Angka Genap Disini
+Keadaan Menang: Jika Pemain Benar Menebak Ada Berapa Angka Genapnya
 
-
+Game Ini Sangat Sederhana Kita Disini Hanya Menghitung Jumlah Angka Genap Dalam Deretan Angka
